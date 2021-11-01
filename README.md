@@ -21,3 +21,6 @@ Data was provided via two csv files. One [file](https://github.com/coleherman370
 * [Driver counts by city](https://github.com/coleherman370/PyBer_Analysis/blob/main/Analysis/Fig4.png) displays that Rural cities have a far tighter average of driver than Urban cities. 
   * This would also attribute to the correlation between fare and number of rides as the low availability of drivers would inherently drive up the fares as patrons have fewer options for available rides.
 * A periodic analysis of fares of time show that trendline is fairly constant in Rural areas. Meanwhile, There appears to be a general upward trend of fares collected in both Urban and Suburban cities. ![](/Analysis/Pyber_fare_summary.png)
+
+## Suggestions
+In order to make this analysis more valuable, data for ride distance and ride type (if fare pricing is tied to vehicle type) would need to be made available. With the current data we are able to see the trend, but do not have the necessary data to draw reliable conclusions on the cause for the trends.
