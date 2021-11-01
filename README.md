@@ -4,8 +4,8 @@
 Pyber has requested an exploratory analysis of their ride share data complete with data visualizations.
 
 ## Resources
-Data Source: city_data.csv; ride_data.csv
-Software: Python 3.9.6, Visual Studio Code 1.61.1
+* Data Source: city_data.csv; ride_data.csv
+* Software: Python 3.9.6, Visual Studio Code 1.61.1
 
 ## Summary
 Data was provided via two csv files. One [file](https://github.com/coleherman370/PyBer_Analysis/blob/main/Resources/city_data.csv) contained city information such as City name, number of drivers and City type. The second [file](https://github.com/coleherman370/PyBer_Analysis/blob/main/Resources/ride_data.csv) contained ride information such as City name, date of ride, total fare of ride, and a ride ID. These tables were combined on City name into a single file for the purpose of the analysis.
